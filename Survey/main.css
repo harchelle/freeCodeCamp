@@ -2,6 +2,8 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   color: #0e61a9;
+  margin: 0;
+  padding: 0;
 }
 
 body {
